@@ -1,1 +1,1 @@
-![php](/home/tarek/this/phpimage.png)
+![php](phpimage.png)
